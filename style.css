@@ -1,3 +1,9 @@
+body{
+    background-color: rgba(24, 58, 74, 1);
+}
+.container{
+    
+}
 .section{
     display: flex;
     justify-content: center;
@@ -5,7 +11,7 @@
 }
 .box{
     align-items: center;
-    
+    background-color: rgba(61, 136, 174, 1);
     justify-content: center;
     width: 150px;
     display: flex;
