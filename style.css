@@ -4,11 +4,13 @@ body{
 .container{
     
 }
+/*
 .section{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
+*/
 .box{
     align-items: center;
     background-color: rgba(61, 136, 174, 1);
@@ -18,4 +20,14 @@ body{
     height: 150px;
     margin: 3px;
     border: 1px solid black;
+}
+.per3{
+    background-color: rgba(97, 210, 164, 1);
+}
+.per5{
+    background-color: rgba(249, 210, 119, 1);
+}
+
+.entrambi3_5{
+    background-color: rgba(222, 84, 113, 1);
 }
